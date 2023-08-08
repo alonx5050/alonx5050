@@ -6,4 +6,4 @@
 
 
 - 🌱 I’m currently learning **C, C++, Html, CSS, JavaScript, React, Java, Node**
-- 📫 How to reach me **zyossi1011@gmail.com**
+- 📫 How to reach me **alonx5050@icloud.com**
