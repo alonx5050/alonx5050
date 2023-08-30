@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&locale=en" alt="alonx5050" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonx5050&" alt=alonx5050" /></p>
+<p>https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&theme=transparent</p>
