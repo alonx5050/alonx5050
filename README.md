@@ -17,6 +17,6 @@
 
 <p><img align="left" src=https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&theme=transparent/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&locale=en" alt="alonx5050" /></p>
+<p>&nbsp;<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=alonx5050"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonx5050&" alt=alonx5050" /></p>
