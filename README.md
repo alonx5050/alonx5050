@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alon Segev</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left <a href="https://imgbb.com/"><img src=https://ibb.co/n007vbR" border="0"></a>
+
 
 - 🌱 I’m currently learning **C, C++, Html, CSS, JavaScript, React, Java, Node, Express**
 
