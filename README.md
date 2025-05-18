@@ -41,7 +41,7 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&theme=github_dark&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&theme=github_light&hide_title=false" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonx5050&theme=light" />
   <br/>
