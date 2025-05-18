@@ -1,22 +1,67 @@
 <h1 align="center">Hi 👋, I'm Alon Segev</h1>
-<h3 align="center">Software Engineer @ Pumba </h3>
+<h3 align="center">🚀 Software Engineer @ Pumba | Passionate about AI, Backend Systems, and Creative Automation</h3>
 
+---
 
+### 🧠 About Me
 
-- 🌱 I’m currently learning **C, C++, Html, CSS, JavaScript, React, Java, Node, Express**
+- 🎓 Lifelong learner — always exploring new technologies  
+- 💼 Currently working at **Pumba** on computer vision and cloud automation  
+- 🛠️ Building systems with **JavaScript**, **Python**, **Node.js**, and **React**  
+- 🌱 Currently learning: **C/C++**, **Java**, **Docker**, and **DevOps best practices**
+- 📫 Reach me at: [alonx5050@icloud.com](mailto:alonx5050@icloud.com)
 
-- 📫 How to reach me **alonx5050@icloud.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlonSegev-blue?logo=linkedin)](https://www.linkedin.com/in/alon-segev-521687197/)
+[![GitHub](https://img.shields.io/badge/GitHub-alonx5050-black?logo=github)](https://github.com/alonx5050)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/alon-segev-521687197/" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src=https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&theme=transparent/></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonx5050"/></p>
+### 🚀 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alonx5050&" alt=alonx5050" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alonx5050&show_icons=true&theme=github_dark&hide_title=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonx5050&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonx5050&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+### 📂 Featured Projects (Optional, But Highly Recommended)
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| 🚘 **Smart Parking Detection** | Object detection pipeline using YOLOv8 & FasterRCNN for urban parking analytics | Python, CV, GCP/Azure |
+| 💬 **CX Chat App** | A modern chat interface with chatbot integration and React frontend | Node.js, Express, React |
+| 🧠 **AI Dataset Trainer** | End-to-end annotation and training automation using CVAT and Azure | Python, CVAT, Docker |
+
+---
+
+### ✨ Fun Fact
+
+I believe in turning bold ideas into real-world automation using smart, scalable software. When I’m not coding, you’ll find me sipping espresso or exploring AI’s newest frontiers. ☕🤖
+
+---
