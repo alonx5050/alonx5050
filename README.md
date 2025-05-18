@@ -49,19 +49,3 @@
 </p>
 
 ---
-
-### 📂 Featured Projects (Optional, But Highly Recommended)
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🚘 **Smart Parking Detection** | Object detection pipeline using YOLOv8 & FasterRCNN for urban parking analytics | Python, CV, GCP/Azure |
-| 💬 **CX Chat App** | A modern chat interface with chatbot integration and React frontend | Node.js, Express, React |
-| 🧠 **AI Dataset Trainer** | End-to-end annotation and training automation using CVAT and Azure | Python, CVAT, Docker |
-
----
-
-### ✨ Fun Fact
-
-I believe in turning bold ideas into real-world automation using smart, scalable software. When I’m not coding, you’ll find me sipping espresso or exploring AI’s newest frontiers. ☕🤖
-
----
